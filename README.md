@@ -1,5 +1,6 @@
 # SegmentPageController
 一句话实现分段控制器的切换,有木有感觉到最强封装...
+下载了不给STAR以后不分享了.
 
 ![SegmentPageController in action](SegmentPageController.gif)
 
